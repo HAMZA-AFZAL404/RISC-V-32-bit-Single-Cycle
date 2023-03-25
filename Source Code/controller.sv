@@ -129,5 +129,8 @@ module controller (
     endcase
     
   end
+  
+  
+  // just for testing purposes so igonre this thing
 
 endmodule
